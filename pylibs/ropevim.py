@@ -1,4 +1,5 @@
 """ropevim, a vim mode for using rope refactoring library"""
+import patch_urandom_bug
 import glob
 import os
 import tempfile
